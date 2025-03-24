@@ -42,7 +42,7 @@ It aims to optimize server performance, stability, and usability.
 
 ### 🪲 Fixed (Bugs):
 
--   [AW-31](https://lcg-xad.atlassian.net/jira/software/c/projects/AW/boards/7?selectedIssue=AW-31 'AW-31'): Fixed issue where submitting the first feedback required changing the type first when selecting "Ask a Question". A bug was found in the new feedback modal created in AW-15. The "Ask a Question" option would be locked unless another type was selected first. To fix this, we added a default label 'Choose one'.
+-   [AW-31](https://lcg-xad.atlassian.net/jira/software/c/projects/AW/boards/7?selectedIssue=AW-31 'AW-31'): Fixed issue where submitting the first feedback required changing the type first when selecting "Ask a Question". The bug was found in the new feedback modal created in AW-15. The "Ask a Question" option would be locked unless another type was selected first. To fix this, we added a default label 'Choose one'.
 
 -   [AW-47](https://lcg-xad.atlassian.net/jira/software/c/projects/AW/boards/7?selectedIssue=AW-47 'AW-47'): Fixed an issue where the new translation feature caused the 'faker' functionality in .sh files to stop working. Due to the new translation feature in AW-28, the 'faker' functionality in .sh files stopped working.
 
