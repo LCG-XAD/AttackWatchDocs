@@ -18,16 +18,16 @@ It aims to optimize server performance, stability, and usability.
 
 -   [AW-17](https://lcg-xad.atlassian.net/jira/software/c/projects/AW/boards/7?selectedIssue=AW-17 'AW-17'): Implemented a new Activity Logger in AttackWatch. It records all created, modified, and deleted data, as well as sent emails and requests.
 
-![AW-17_1](https://github.com/user-attachments/assets/d54a51c5-5bee-438b-9398-07eb48aa0393)
-
-![AW-17_2](https://github.com/user-attachments/assets/23e0c861-b0c6-4fc3-9818-630de7b85a70)
+| Log Table | Log Info |
+|---------|---------|
+| ![AW-17_1](https://github.com/user-attachments/assets/d54a51c5-5bee-438b-9398-07eb48aa0393) | ![AW-17_2](https://github.com/user-attachments/assets/23e0c861-b0c6-4fc3-9818-630de7b85a70) |
 
 
 -   [AW-28](https://lcg-xad.atlassian.net/jira/software/c/projects/AW/boards/7?selectedIssue=AW-28 'AW-28'): Enabled multi-language support for AttackWatch. We added a button to switch between supported languages in the interface. We implemented a new translation system inside AttackWatch and created its translations.
 
-![AW-28_1](https://github.com/user-attachments/assets/205075fe-2751-4a5e-81ba-2ff48ff40a0a)
-
-![AW_28_2](https://github.com/user-attachments/assets/4ff45389-c5f9-4e43-8380-e6c99f3f47db)
+| English | Portuguese Translation |
+|---------|---------|
+| ![AW-28_1](https://github.com/user-attachments/assets/205075fe-2751-4a5e-81ba-2ff48ff40a0a) | ![AW_28_2](https://github.com/user-attachments/assets/4ff45389-c5f9-4e43-8380-e6c99f3f47db) |
 
 
 -   [AW-29](https://lcg-xad.atlassian.net/jira/software/c/projects/AW/boards/7?selectedIssue=AW-29 'AW-29'): We improved the AttackWatch dashboard for compromised accounts by updating the labels. We replaced the "Last Month Compromised Accounts" with the "Total Compromised Accounts" metric.
