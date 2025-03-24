@@ -13,7 +13,8 @@ It aims to optimize server performance, stability, and usability.
 
 -   [AW-15](https://lcg-xad.atlassian.net/jira/software/c/projects/AW/boards/7?selectedIssue=AW-15 'AW-15'): Improved Feedback panel with feedback type selection. Enhanced the AttackWatch feedback input by replicating Jira's modal feedback input. The email notification now includes the selected feedback type.
 
-![Give feedback](https://github.com/LCG-Consultoria-SA/aw-docs/blob/main/release_notes/images/1.1.25.12/AW-15_1.png)
+![AW-15_1](https://github.com/user-attachments/assets/9e4eedc7-bec4-4aa2-a520-38c6669c363c)
+
 
 -   [AW-17](https://lcg-xad.atlassian.net/jira/software/c/projects/AW/boards/7?selectedIssue=AW-17 'AW-17'): Implemented a new Activity Logger in AttackWatch. It records all created, modified, and deleted data, as well as sent emails and requests.
 
