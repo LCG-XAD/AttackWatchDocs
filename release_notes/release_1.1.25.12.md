@@ -24,6 +24,9 @@ It aims to optimize server performance, stability, and usability.
 
 -   [AW-49](https://lcg-xad.atlassian.net/jira/software/c/projects/AW/boards/7?selectedIssue=AW-49 'AW-49'): Added web server release notes to the footer. This release note allows users to see which version of AttackWatch is currently running.
 
+![AW-49](https://github.com/user-attachments/assets/d4f670c3-be98-4dd0-bc60-d6b57cd2769c)
+
+
 ### 🪲 Fixed (Bugs):
 
 -   [AW-31](https://lcg-xad.atlassian.net/jira/software/c/projects/AW/boards/7?selectedIssue=AW-31 'AW-31'): Fixed issue where submitting the first feedback required changing the type first when selecting "Ask a Question". A bug was found in the new feedback modal created in AW-15. The "Ask a Question" option would be locked unless another type was selected first. To fix this, we added a default label 'Choose one'.
